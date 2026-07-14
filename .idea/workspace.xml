@@ -4,14 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b5b3a97-030d-4234-bf1f-7789908d8b7e" name="Changes" comment="Anexando forma y utilizando Swing para UI">
-      <change afterPath="$PROJECT_DIR$/zona_fit/src/main/java/gm/zona_fit/ZonaFitSwing.java" afterDir="false" />
+    <list default="true" id="4b5b3a97-030d-4234-bf1f-7789908d8b7e" name="Changes" comment="Creación de extracción de datos en el formulario con Swing">
+      <change afterPath="$PROJECT_DIR$/zona_fit/src/main/java/gm/zona_fit/ZonaFitWeb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zona_fit/src/main/java/gm/zona_fit/controlador/IndexControlador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zona_fit/src/main/resources/META-INF/resources/index.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zona_fit/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zona_fit/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zona_fit/src/main/java/gm/zona_fit/ZonaFitApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/zona_fit/src/main/java/gm/zona_fit/ZonaFitApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zona_fit/src/main/java/gm/zona_fit/gui/ZonaFitForma.form" beforeDir="false" afterPath="$PROJECT_DIR$/zona_fit/src/main/java/gm/zona_fit/gui/ZonaFitForma.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zona_fit/src/main/java/gm/zona_fit/ZonaFitSwing.java" beforeDir="false" afterPath="$PROJECT_DIR$/zona_fit/src/main/java/gm/zona_fit/ZonaFitSwing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zona_fit/src/main/java/gm/zona_fit/gui/ZonaFitForma.java" beforeDir="false" afterPath="$PROJECT_DIR$/zona_fit/src/main/java/gm/zona_fit/gui/ZonaFitForma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zona_fit/src/main/resources/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zona_fit/src/main/resources/logback-spring.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +69,7 @@
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;Spring Boot.ZonaFitApplication.executor&quot;: &quot;Run&quot;,
     &quot;Spring Boot.ZonaFitSwing.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.ZonaFitWeb.executor&quot;: &quot;Run&quot;,
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
@@ -200,7 +202,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782459098715</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Creación de extracción de datos en el formulario con Swing">
+      <option name="closed" value="true" />
+      <created>1783470342806</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1783470342806</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,6 +222,7 @@
     <MESSAGE value="Termino del programa" />
     <MESSAGE value="Iniciar el programa" />
     <MESSAGE value="Anexando forma y utilizando Swing para UI" />
-    <option name="LAST_COMMIT_MESSAGE" value="Anexando forma y utilizando Swing para UI" />
+    <MESSAGE value="Creación de extracción de datos en el formulario con Swing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creación de extracción de datos en el formulario con Swing" />
   </component>
 </project>
